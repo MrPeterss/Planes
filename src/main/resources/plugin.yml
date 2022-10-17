@@ -1,0 +1,7 @@
+name: Planes
+version: '${project.version}'
+main: me.mrpeterss.planes.Main
+api-version: 1.18
+authors: [ MrPeterss ]
+description: A simple planes plugin
+website: peterandaiden.com
